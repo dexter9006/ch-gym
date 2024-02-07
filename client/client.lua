@@ -280,7 +280,7 @@ local function setupTargeting()
                     {
                         event = "ch-gym:doChinUps",
                         icon = "fas fa-dumbbell",
-                        label = "Do Chin Ups",
+                        label = "Faire des Chin Ups",
                         locationIndex = i,
                     },
                 },
@@ -326,7 +326,7 @@ local function setupTargeting()
                     {
                         event = "ch-gym:doLiftWeights",
                         icon = "fas fa-dumbbell",
-                        label = "Lift Weights",
+                        label = "Faire de la musculation",
                     },
                 },
                 distance = 2.5,
